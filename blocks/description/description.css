@@ -1,0 +1,6 @@
+.description {
+  display: flex;
+  justify-content: center;
+  /* задаем расстояние между секциями */
+  margin-top: 100px;
+}

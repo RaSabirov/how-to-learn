@@ -1,0 +1,15 @@
+.table__text {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.table__text:first-of-type {
+  padding-top: 20px;
+}
+
+.table__text:last-of-type {
+  padding-top: 20px;
+}
